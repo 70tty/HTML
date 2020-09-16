@@ -1,2 +1,2 @@
 # HTML
-HTML basics
+HTML basics (training)
